@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    <title>mohammed sameer's Website</title>
+</head>
+
+<body>
+    <div class="fulldiv">
+        <div class="leftSide">
+            <div class="resImg">
+                <img src="sameer.jpg" alt="">
+            </div>
+            <h3 class="font-h3">About Me</h3>
+
+            <ul class="list">
+                <li>A Quick Learner</li>
+            </ul>
+
+            <h3 class="font-h3">Programming Skills</h3>
+
+            <ul class="list">
+              <li>python</li>
+            </ul>
+
+            <h3 class="font-h3">Area Of Interest</h3>
+
+            <ul class="list">
+                <li>java</li>
+            </ul>
+            <h3 class="font-h3">Contact</h3>
+
+            <ul class="contact-details">
+                <p><b>Phone :</b> 9360339721</p>
+                <p><b>E-mail :</b>sameerms078@gmail.com</p>
+            </ul>
+        </div>
+
+        <div class="right-side">
+
+            <h1 class="name">Mohammed sameer s </h1><br>
+            <p class="ninja">- hard worker</p><br><br>
+            <hr>
+
+            <h3 class="font-h3">Carrier Objectives</h3>
+
+            <p class="carrier">To pursue a rewarding and challenging career in your organization which would bemutually benefical in terms of learning experience and contributional to organizationgrowth.</p>
+            <h3 class="font-h3">Education</h3>
+            <ul class="edu-list">
+                <li>B.E(ECE) - PANIMALAR ENGINEERING COLLEGE With 8.5 CGPA</li>
+                <li>HSC - ZMHSS With 80 % [2019]</li>
+                <li>SSLC - ZMHSS With 92 % [2017]</li>
+            </ul>
+        </div>
+    </div>
+</body>
+
+</html>
